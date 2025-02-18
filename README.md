@@ -27,13 +27,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
-![l](https://github.com/user-attachments/assets/0acc83bc-93cc-4eb6-a5a3-c3663890bf20)
-
-
-
 ![active directory 1](https://github.com/user-attachments/assets/3870bd61-57bd-4b14-a722-bfac9efa9a0d)
 
 
+
+
+![l](https://github.com/user-attachments/assets/0acc83bc-93cc-4eb6-a5a3-c3663890bf20)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
